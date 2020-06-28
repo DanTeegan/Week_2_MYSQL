@@ -89,7 +89,7 @@ Make everything atomic
 For example A table that records data on a book and its author(s) with the following columns: [Book ID], [Author1],[Author2], [Author3] is not in 1NF because [Author1],[Author2] and [Author3] are all repeating the same attribute.
 How can we make this 1NF?
 
-![IMAGE]( https://ibb.co/MpwD0Gb)
+![IMAGE]( https://imgur.com/tA8hSgH)
 
 ![IMAGE]( https://ibb.co/NxhPmq2)
 
